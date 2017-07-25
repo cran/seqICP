@@ -1,12 +1,12 @@
-a0f7cb087d85e5f1d37d638e4cc827af *DESCRIPTION
+bb1e5468ff51e4817126e0a82c1441d6 *DESCRIPTION
 e30e9834e6e904eb0200b9e39a3db18f *NAMESPACE
 15326a5498ee123797eee6a7edbe2304 *R/seqICP.R
-ddb0dab1563b7ce4c1bd98383df824bd *R/seqICP.s.R
+a5991e6b40a6ae196881d620e80fe01a *R/seqICP.s.R
 a7c2e6f2fe59b5b6d5f9a1e30b14ca6a *R/seqICPnl.R
 60d22bb73007428f15d9a5f70371081d *R/seqICPnl.s.R
 159ebeee65ff7138c510205f130f52bf *R/summary.seqICP.R
 cb3cbbc6a465379239878abf9a3722a0 *R/summary.seqICPnl.R
-99d82792044886468160116315315f1a *build/partial.rdb
+ff77b038038991bdaffe0a8aae033b37 *build/partial.rdb
 d9ad6cb0f53e7c5d881ac64c1ebac627 *man/seqICP.Rd
 baa109d0ca56d2e226a69384f79455b5 *man/seqICP.s.Rd
 8c64015088fdef1f8fa76c692fde265c *man/seqICP_package.Rd

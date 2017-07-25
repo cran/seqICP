@@ -454,10 +454,7 @@ seqICP.s <- function(X, Y, S,
       gamma.env <- vector("list",L.tot)
       for(i in 1:L.tot){
         R.env <- R.scaled[env[[i]],,drop=FALSE]
-        X.env <- X[env[[i]],,drop=FALSE]
         gamma.env[[i]] <- Z[[i]]%*%R.env
-        resid <- R.env-X.env%*%gamma.env[[i]]
-        var.env[i] <- sum(resid^2)/(length(env[[i]])-d)
       }
       # go over all pairs of non-intersecting environments
       statfun <- function(i,j){
